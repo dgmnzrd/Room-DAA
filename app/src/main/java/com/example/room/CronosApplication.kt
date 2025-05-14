@@ -1,4 +1,4 @@
-package com.example.room.ui.theme
+package com.example.room
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

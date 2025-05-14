@@ -21,6 +21,5 @@ fun NavManager() {
         composable("EditView") {
             EditView(navController)
         }
-
     }
 }
